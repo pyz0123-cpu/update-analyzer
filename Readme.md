@@ -102,7 +102,8 @@ Prebuilt Linux bundles are provided on the **Releases** page.
    ./update_analyzer
 
 
-Alternatively, you can you may also double‑click the update_analyzer executable in your file manager to run the application. This works because the file manager automatically sets the working directory to the bundle folder.
+Alternatively, you may also double‑click the `update_analyzer` executable in your file manager to run the application. This works because the file manager automatically sets the working directory to the bundle folder.
+
 ---
 
 ## Why This Tool Exists
